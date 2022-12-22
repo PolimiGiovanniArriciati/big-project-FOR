@@ -1,6 +1,13 @@
-Lab project for Foundations of operational research (088983) POLIMI
-a demonstration that we are able to use MIP optimization and other graph optimization kinda shit
+## Lab project for "Foundations of Operational Research" (088983) POLIMI: \
+A demonstration that we are able to use MIP optimization library and other graph optimization kinda shit
 
-Giovanni Arriciati - 10683631
+#### Team members:
+- Giovanni Arriciati - 10683631
+- Luigi quello di Mario - XXXXXXX
+- il coinquilino - YYYYYYYY
 
-Luigi quello di Mario - XXXXXXX
+#### Results:
+
+|instance|gap(%)|
+|-|-|
+|0|0|
